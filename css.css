@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+.format {
+    background-color: rgb(52, 52, 52);
+    color: aliceblue;
+    font-size: 1rem;
+    
+}
+.section {
+    height: 1500px;
+}
